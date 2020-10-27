@@ -31,3 +31,47 @@ h1+table {
     margin-bottom: -16px !important;
     font-weight: 500;
 }
+
+body {
+    background-color: #f5f5d5;
+}
+
+div.highlight {
+    border: .25em solid #e0dfcc;
+    border-radius: .4em;
+    background-color: #f5f2f0;
+}
+
+.markdown-body .highlight pre, .markdown-body pre { 
+    background-color: #f5f2f0;
+}
+
+a {
+    color: #0859b4;
+}
+
+.markdown-body h1 {
+    border-color: #d3d3d3;
+}
+.markdown-body h2 {
+    border-color: #d3d3d3;
+}
+
+.markdown-body hr {
+    background-color: #e0dfcc;
+}
+
+.markdown-body blockquote { 
+    color: #7a8590;
+    border-color: #d1d3d5;
+}
+
+.markdown-body table tr {
+    background-color: #f5f5d5;
+}
+
+.markdown-body code, .markdown-body tt { 
+    background-color: rgba(255, 192, 203, 0.6);
+    border-radius: .375em;
+    margin: auto 3px;
+}
