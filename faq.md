@@ -59,7 +59,14 @@ const Component = () => {
 
 片段 C 是正确的！
 
-4）点加1后，数字会加1？
+4）点加 1 后，数字会加 1？
 
 代码：[Demo](https://codesandbox.io/s/twilight-sun-iogjz)
 
+5）如何使用 parcel 搭建 React 应用？
+
+![react应用](assets/img/2020-12-26-14-38-03.png)
+
+代码：[Demo](https://github.com/ppambler/react-demo/commit/76817a1d2bb5be4244015353e56de0b6f1ffdde1)
+
+➹：[How To Set Up a React Project With Parcel - DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-parcel)
