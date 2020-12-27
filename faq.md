@@ -65,8 +65,31 @@ const Component = () => {
 
 5）如何使用 parcel 搭建 React 应用？
 
-![react应用](assets/img/2020-12-26-14-38-03.png)
+![react 应用](assets/img/2020-12-26-14-38-03.png)
 
 代码：[Demo](https://github.com/ppambler/react-demo/commit/76817a1d2bb5be4244015353e56de0b6f1ffdde1)
 
 ➹：[How To Set Up a React Project With Parcel - DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-parcel)
+
+6）Bulma ？
+
+一个 CSS 框架，做一些代码测试时，可以用它提供的样式去搞！
+
+使用：
+
+``` html
+<link href="https://cdn.bootcdn.net/ajax/libs/bulma/0.9.1/css/bulma.min.css" rel="stylesheet">
+```
+
+➹：[Documentation - Bulma: Free, open source, and modern CSS framework based on Flexbox](https://bulma.io/documentation/)
+
+➹：[CSS 框架 Bulma 教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2017/10/bulma.html)
+
+7）React vs Vue？
+
+- Vue：自动挡，坏了很难修，构造复杂但使用简单
+- React：手动挡（半自动挡），坏了很容易修，使用较 Vue 复杂但构造简单
+
+总之，使用 Vue，就是在让开发者放弃 JS 的编程序和灵活性，而且面试官考察 Vue 大部分都认为问不出你到底是个什么样的水平，而问 React，则可以考察出你对 JS 底层的掌握能力！
+
+> 电锯 vs 类似斧头一样的电锯
