@@ -104,5 +104,9 @@ const Component = () => {
 
 > Webpack vs Parcel
 
-
 ➹：[Vue真的比React上手简单吗? - 方应杭的回答 - 知乎](https://www.zhihu.com/question/271908748/answer/364203091)
+
+9）JSX 里边不能用`Object`类型的值（`{}`）？
+
+![不能用普通对象](assets/img/2021-01-13-17-42-54.png)
+
