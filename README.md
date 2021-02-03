@@ -1,6 +1,6 @@
 # React
 
-> [教程](./resource.md)、[FAQ](./faq.md)
+> [教程](./resource.md)、[FAQ](./faq/README.md)
 
 1）系列课
 

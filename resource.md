@@ -2,10 +2,11 @@
 
 # 教程
 
-1）书
+1）书 || 小册 || 文章系列
 
 - [React.js 小书](http://huziketang.mangojuice.top/books/react/)
 - [Redux 中文文档](https://www.redux.org.cn/)
+- [kenberkeley/redux-simple-tutorial: Redux 莞式教程。本教程深入浅出，配套入门、进阶源码解读以及文档注释丰满的 Demo 等一条龙服务](https://github.com/kenberkeley/redux-simple-tutorial)
 
 2）文章
 

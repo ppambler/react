@@ -1,6 +1,6 @@
 ### ✍️ Tangxt ⏳ 2020-10-27 🏷️ faq
 
-# FAQ
+# React-Question
 
 ## ★ 1~10
 
@@ -109,4 +109,3 @@ const Component = () => {
 9）JSX 里边不能用`Object`类型的值（`{}`）？
 
 ![不能用普通对象](assets/img/2021-01-13-17-42-54.png)
-
