@@ -7,7 +7,7 @@
 - [理解 React，但不理解 Redux，该如何通俗易懂的理解  Redux？ - 知乎](https://www.zhihu.com/question/41312576)
 - [Redux 有哪些最佳实践？- 知乎](https://www.zhihu.com/question/47995437)
 - [前端状态管理模式 (Redux/Vuex) 和 HTML 本地存储的区别在哪里？ - 知乎](https://www.zhihu.com/question/57138762)
-- [React Hooks 是否能取代 Redux || mobx || 等，请举例说明？- 知乎](https://www.zhihu.com/question/324199539)
+- [React Hooks 是否能取代 Redux、mobx等，请举例说明？- 知乎](https://www.zhihu.com/question/324199539)
 - [译-2019 React Redux 完全指南](https://juejin.cn/post/6844903815594901512)
 
 ## ★Q&A
