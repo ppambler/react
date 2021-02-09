@@ -13,6 +13,7 @@
 - [A cartoon intro to Redux - by Lin Clark - Code Cartoons](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
 - [Stop Asking if React Hooks Replace Redux - by Max González - The Startup - Medium](https://medium.com/swlh/stop-asking-if-react-hooks-replace-redux-448c54d79551)
 - [UI is a function of state](https://www.kn8.lt/blog/ui-is-a-function-of-data/)
+- [精读《Function Component 入门》](https://juejin.cn/post/6844903854174109703)
 
 3）视频
 

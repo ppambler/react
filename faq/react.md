@@ -4,19 +4,19 @@
 
 ## ★ 1~10
 
-1）关于 React 和 ReactDOM？
+### <mark>1）关于 React 和 ReactDOM？</mark>
 
 必须同时使用这两个库才能在浏览器上开发 React 应用
 
 总之，只使用其中任何一个都不能在浏览器上开发 React 应用
 
-2）如何理解 `const x = React.createElement('div', null, 'hi') `？
+### <mark>2）如何理解 `const x = React.createElement('div', null, 'hi') `？</mark>
 
 `x` 是一个 React 元素，它代表一个 `div`，它是一个虚拟 DOM 对象
 
 注意，`x`可不是一个 DOM 对象哈！
 
-3）有如下三个代码片段，请问，能够在 `n` 为偶数时显示「n 是偶数」，`n` 为奇数是显示「n 是奇数」的是 A、B、C 中的哪一个？
+### <mark>3）有如下三个代码片段，请问，能够在 `n` 为偶数时显示「n 是偶数」，`n` 为奇数是显示「n 是奇数」的是 A、B、C 中的哪一个？</mark>
 
 ``` jsx
 // 片段 A
@@ -59,11 +59,11 @@ const Component = () => {
 
 片段 C 是正确的！
 
-4）点加 1 后，数字会加 1？
+### <mark>4）点加 1 后，数字会加 1？</mark>
 
 代码：[Demo](https://codesandbox.io/s/twilight-sun-iogjz)
 
-5）如何使用 parcel 搭建 React 应用？
+### <mark>5）如何使用 parcel 搭建 React 应用？</mark>
 
 ![react 应用](assets/img/2020-12-26-14-38-03.png)
 
@@ -71,7 +71,7 @@ const Component = () => {
 
 ➹：[How To Set Up a React Project With Parcel - DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-parcel)
 
-6）Bulma ？
+### <mark>6）Bulma ？</mark>
 
 一个 CSS 框架，做一些代码测试时，可以用它提供的样式去搞！
 
@@ -85,7 +85,7 @@ const Component = () => {
 
 ➹：[CSS 框架 Bulma 教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2017/10/bulma.html)
 
-7）React vs Vue？
+### <mark>7）React vs Vue？</mark>
 
 - Vue：自动挡，坏了很难修，构造复杂但使用简单
 - React：手动挡（半自动挡），坏了很容易修，使用较 Vue 复杂但构造简单
@@ -94,7 +94,7 @@ const Component = () => {
 
 > 电锯 vs 类似斧头一样的电锯
 
-8）感觉 React 上手比 Vue 要简单？
+### <mark>8）感觉 React 上手比 Vue 要简单？</mark>
 
 任何库都要在「概念简洁」（自由度高）和「使用便利」（提供现成的范式）上做选择。React 选择了前者，Vue 选择了后者。
 
@@ -106,6 +106,10 @@ const Component = () => {
 
 ➹：[Vue真的比React上手简单吗? - 方应杭的回答 - 知乎](https://www.zhihu.com/question/271908748/answer/364203091)
 
-9）JSX 里边不能用`Object`类型的值（`{}`）？
+### <mark>9）JSX 里边不能用`Object`类型的值（`{}`）？</mark>
 
 ![不能用普通对象](assets/img/2021-01-13-17-42-54.png)
+
+10）React 组件的状态？
+
+➹：[深入理解React的组件状态](https://juejin.cn/post/6844903624603090952)
