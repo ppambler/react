@@ -113,3 +113,11 @@ const Component = () => {
 10）React 组件的状态？
 
 ➹：[深入理解React的组件状态](https://juejin.cn/post/6844903624603090952)
+
+## ★11~20
+
+11）在 VS Code 里边写 JSX 代码，如何生成提示？
+
+![jsx 提示](assets/img/2021-02-10-21-10-25.png)
+
+配置了这个，就能愉快地写 JSX 代码了！
