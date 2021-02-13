@@ -2,6 +2,10 @@
 
 # React-Question
 
+## ★必须要记住的
+
+- 关于`class`组件，不能在 `render()` 中修改组件状态，总之，`render`方法必须是纯的而且没有副作用 -> `render`其实也是一个生命周期方法！
+
 ## ★ 1~10
 
 ### <mark>1）关于 React 和 ReactDOM？</mark>
