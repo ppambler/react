@@ -28,3 +28,13 @@ MongoDB，Express，React，Node 的简写，使用 MERN，意味着我们所构
 ➹：[国内对 Heroku 这个平台评价怎样？ - 知乎](https://www.zhihu.com/question/19983570)
 
 ➹：[如何快速使用 Heroku 来部署你的 Laravel 应用 - Laravel China 社区](https://learnku.com/articles/2602/how-to-quickly-use-heroku-to-deploy-your-laravel-application)
+
+3）关于项目的命名？
+
+![商城项目](assets/img/2021-02-17-23-05-35.png)
+
+其它人的命名：
+
+![命名](assets/img/2021-02-17-23-06-44.png)
+
+➹：[jokingzhang/express-locallibrary-tutorial: Express 教程: 本地图书馆网站 前后端分离版本](https://github.com/jokingzhang/express-locallibrary-tutorial)
