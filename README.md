@@ -6,6 +6,7 @@
 
 - [01-小白也能听懂的 React 教程](./01/README.md)
 - [03-从零学习 React 技术栈](./03/README.md)
+- [04-React 全解](./04/README.md)
 
 2）文章
 

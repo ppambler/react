@@ -14,6 +14,7 @@
 - [Stop Asking if React Hooks Replace Redux - by Max González - The Startup - Medium](https://medium.com/swlh/stop-asking-if-react-hooks-replace-redux-448c54d79551)
 - [UI is a function of state](https://www.kn8.lt/blog/ui-is-a-function-of-data/)
 - [精读《Function Component 入门》](https://juejin.cn/post/6844903854174109703)
+- [React 深入系列１：React 中的元素、组件、实例和节点](https://juejin.cn/post/6844903587445735437)
 
 3）视频
 
