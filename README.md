@@ -1,4 +1,4 @@
-# React
+# [React](https://github.com/ppambler/react)
 
 > [教程](./resource.md)、[FAQ](./faq/README.md)
 
