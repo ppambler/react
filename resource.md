@@ -7,6 +7,7 @@
 - [React.js 小书](http://huziketang.mangojuice.top/books/react/)
 - [Redux 中文文档](https://www.redux.org.cn/)
 - [kenberkeley/redux-simple-tutorial: Redux 莞式教程。本教程深入浅出，配套入门、进阶源码解读以及文档注释丰满的 Demo 等一条龙服务](https://github.com/kenberkeley/redux-simple-tutorial)
+- [Tutorial - React router beginners guide - Reactgo](https://reactgo.com/reactrouter/tutorial/)
 
 2）文章
 
@@ -15,6 +16,7 @@
 - [UI is a function of state](https://www.kn8.lt/blog/ui-is-a-function-of-data/)
 - [精读《Function Component 入门》](https://juejin.cn/post/6844903854174109703)
 - [React 深入系列１：React 中的元素、组件、实例和节点](https://juejin.cn/post/6844903587445735437)
+- [Vuex、Flux、Redux、Redux-saga、Dva、MobX - 知乎](https://zhuanlan.zhihu.com/p/53599723)
 
 3）视频
 
