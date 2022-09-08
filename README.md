@@ -21,6 +21,6 @@
 
 ## ★Inbox
 
-- [01-React 商城管理系统（前台+后台）](./02/README.md)
-- [02-从零学习 React 技术栈](./03/README.md)
-- [03-React 全解](./04/README.md) `4/7`
+- [01-React 商城管理系统（前台+后台）](./02/README.md) `1`
+- [02-从零学习 React 技术栈](./03/README.md) `1`
+- [03-React 全解](./04/README.md) `4`
