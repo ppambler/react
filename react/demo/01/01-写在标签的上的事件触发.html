@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+
+<head>
+  <meta charset="utf-8">
+  <title>01-写在标签的上的事件触发</title>
+  <style></style>
+</head>
+
+<body>
+  <button onclick="xxx()">log xxx</button>
+  <button onClick={function (){console.log(1)};}>log yyy</button>
+  <button id="btn">log 1</button>
+  <script>
+    function xxx() {
+      console.log("我是旧姿势触发button 的click callback")
+    }
+    function yyy() {
+      console.log("我是新姿势触发button 的click callback")
+    }
+    btn.onclick = function() {
+      console.log(1)
+    }
+  </script>
+</body>
+
+</html>
