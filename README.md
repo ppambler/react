@@ -11,7 +11,7 @@
 ### 文章
 
 - [01-React 入门](./react/01.md)
-- [02-Mobx](./06/README.md)
+- [02-Mobx 应用](./06/01.md)
 
 ### 练习
 
@@ -19,7 +19,7 @@
 
 - [01-React 项目实战之 epic 图床](./05/README.md)
 
-### Inbox
+## ★Inbox
 
 - [01-React 商城管理系统（前台+后台）](./02/README.md)
 - [02-从零学习 React 技术栈](./03/README.md)
